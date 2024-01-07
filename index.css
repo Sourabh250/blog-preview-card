@@ -111,6 +111,25 @@ p {
     outline-offset: 1px;
 }
 
+.animation {
+    padding: 5px;
+    animation: color-change 1.2s ease-out 2s infinite;
+}
+
+@keyframes color-change {
+    0% {
+        background: hsl(47, 88%, 63%);
+    }
+
+    50% {
+        background: hsl(207, 90%, 54%);
+    }
+
+    100% {
+        background: hsl(47, 88%, 63%);
+    }
+}
+
 @media only screen and (max-width: 768px) {
     html,
     body {
