@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://blog-preview-card-site.netlify.app/)
 
 ### Built with
 
@@ -43,4 +43,4 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Profile](https://www.frontendmentor.io/profile/Sourabh250)
