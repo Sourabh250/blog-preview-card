@@ -88,7 +88,7 @@ p {
 }
 
 #attribution {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     position: absolute;
     bottom: 0;
     margin-bottom: 2rem;
@@ -109,4 +109,11 @@ p {
 #attribution a:focus {
     outline: 2px solid hsl(0, 0%, 7%);
     outline-offset: 1px;
+}
+
+@media only screen and (max-width: 768px) {
+    html,
+    body {
+        font-size: 8px;
+    }
 }
